@@ -1,6 +1,6 @@
 Soy Lautaro
 
-Soy estudiante técnico en aviónica, pero más allá del título, soy alguien que construye cosas reales. Me gusta resolver problemas con electrónica, programación y algo de rebeldía.  
+Soy estudiante técnico en aviónica. Me gusta resolver problemas con electrónica, programación y algo de rebeldía.  
 
 Estoy desarrollando proyectos que mezclan tecnología con sentido práctico, como [SICAP](https://github.com/impatrq/SICAP), un sistema de control de pañol con RFID y ESP32 que puede usarse en escuelas, talleres o empresas.
 
