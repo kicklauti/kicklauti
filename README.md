@@ -1,4 +1,4 @@
-# 👋 Hola, soy Lautaro
+Soy Lautaro
 
 Soy estudiante técnico en aviónica, pero más allá del título, soy alguien que construye cosas reales. Me gusta resolver problemas con electrónica, programación y algo de rebeldía.  
 
